@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/index.tsx"],"sourcesContent":["const checker = () => {\n  console.log(\"i am working 2\");\n};\n\nexport default checker;\n"],"names":[],"mappings":";;IAAM,OAAO,GAAG;IACd,OAAO,CAAC,GAAG,CAAC,gBAAgB,CAAC,CAAC;AAChC;;;;"}
