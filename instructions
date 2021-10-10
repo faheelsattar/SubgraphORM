@@ -1,0 +1,13 @@
+--> creating basic query =  
+const query= "
+        &e(&f, &f, &f, &f){
+            &a,
+            &a,
+            &a,
+            &a,
+        }                       
+"
+
+--> if more then two entities = add the above query to itself to construct a query
+
+twoEntityQuery = query + query
